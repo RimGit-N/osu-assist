@@ -1,0 +1,6 @@
+opencv-python
+dxcam
+pystyle
+pywin32
+keyboard
+numpy

@@ -1,0 +1,22 @@
+{
+    "menu_color": "purple",
+    "aim_assist": {
+        "min_area": 10,
+        "strength": 0.05,
+        "range": 200,
+        "cursor": [
+            221,
+            50,
+            50
+        ],
+        "color": [
+            237,
+            3,
+            205
+        ]
+    },
+    "keybinds": {
+        "exit": "q",
+        "reload": "r"
+    }
+}
