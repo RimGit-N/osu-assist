@@ -56,8 +56,8 @@ def getconfig():
         config = {
             "menu_color": "purple",
             "aim_assist": {
-                "min_area": 30,
-                "strength": 2.0,
+                "min_area": 50,
+                "strength": 5.0,
                 "range": 200,
                 "cursor": [221,50,50],
                 "color": [237,3,205]
